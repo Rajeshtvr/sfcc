@@ -1,0 +1,7 @@
+<isdecorate template="Training/decor"> 
+<ismodule template="/components/content/contentAsset"
+    name="contentasset"
+    attribute="aid"
+/>
+<iscontentasset aid="p2611"/>
+</isdecorate>

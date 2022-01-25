@@ -1,0 +1,2 @@
+<isprint value=" The Product name with id  "${product.ID}"  is "${product.name}" and present at "${rv.index}" index and brand name is  ${product.brand}" />
+

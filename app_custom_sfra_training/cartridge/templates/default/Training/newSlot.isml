@@ -1,0 +1,3 @@
+<isdecorate template="Training/decorator1"> 
+<isslot id="thisIsMySlot" context="category" context-object="${pdict.category}" description="Hello this is my new" />
+</isdecorate>

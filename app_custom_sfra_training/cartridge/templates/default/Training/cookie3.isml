@@ -1,0 +1,2 @@
+<isprint value="${pdict.b}" />
+<isredirect location="${pdict.b}"  permanent = "false"/>

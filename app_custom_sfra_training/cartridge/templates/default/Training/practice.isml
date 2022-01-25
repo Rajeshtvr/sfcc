@@ -1,0 +1,7 @@
+<isdecorate template="Training/decorator12" > 
+	<isloop items ="${pdict.ac}" var = "products" >
+		<h1> 
+			<isprint value="${products.getName()}" />
+		</h1>
+	</isloop>
+</isdecorate>
